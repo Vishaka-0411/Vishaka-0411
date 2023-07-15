@@ -1,4 +1,4 @@
- ![logo](gitimg.avif)
+ ![logo](https://img.freepik.com/premium-photo/flow-binary-data-computer-generated-3d-rendering-scientific-technology-modern-digital-background_828631-5408.jpg?w=360)
 
 <h1 align="center">Hi 👋, I'm Vishaka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
