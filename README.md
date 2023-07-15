@@ -1,4 +1,4 @@
- ![logo](https://github.com/Vishaka-0411/Vishaka-0411/blob/main/gitimg.avif)
+ ![logo](gitimg.avif)
 
 <h1 align="center">Hi 👋, I'm Vishaka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
