@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **HTML,CSS,PHP, etc..**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vishaka-malusare-7251a027b](https://www.linkedin.com/in/vishaka-malusare-7251a027b)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/vishaka-malusare-0411v24](https://www.linkedin.com/in/vishaka-malusare-7251a027b)
 
 - ⚡ Fun fact **I am Funny 😂**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishaka malusare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishaka malusare" height="30" width="40" /></a>
 </p>
