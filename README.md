@@ -1,4 +1,5 @@
- ![logo](https://img.freepik.com/premium-photo/flow-binary-data-computer-generated-3d-rendering-scientific-technology-modern-digital-background_828631-5408.jpg?w=360)
+ ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dprogramming%26page%3D2&psig=AOvVaw2WWfMynbsFyEtOy2_OXyio&ust=1690375482675000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj328PxqYADFQAAAAAdAAAAABAl)
+ 
 
 <h1 align="center">Hi 👋, I'm Vishaka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
