@@ -1,4 +1,4 @@
- ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dprogramming%26page%3D2&psig=AOvVaw2WWfMynbsFyEtOy2_OXyio&ust=1690375482675000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj328PxqYADFQAAAAAdAAAAABAl)
+ ![logo](https://c1.wallpaperflare.com/preview/624/189/286/coding-javascript-programming-computer-screen.jpg)
  
 
 <h1 align="center">Hi 👋, I'm Vishaka</h1>
