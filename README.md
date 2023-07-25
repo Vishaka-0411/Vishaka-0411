@@ -1,6 +1,6 @@
  ![logo](https://c1.wallpaperflare.com/preview/624/189/286/coding-javascript-programming-computer-screen.jpg)
  
-![image](https://github.com/Vishaka-0411/Vishaka-0411/assets/139636510/4e31377d-7a2f-499c-8657-e3a4deb0452f)
+
 
 
 <h1 align="center">Hi 👋, I'm Vishaka</h1>
